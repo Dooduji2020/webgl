@@ -56,11 +56,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/gameTest.loader.js";
+      var loaderUrl = buildUrl + "/testIngame.loader.js";
       var config = {
-        dataUrl: buildUrl + "/gameTest.data",
-        frameworkUrl: buildUrl + "/gameTest.framework.js",
-        codeUrl: buildUrl + "/gameTest.wasm",
+        dataUrl: buildUrl + "/testIngame.data",
+        frameworkUrl: buildUrl + "/testIngame.framework.js",
+        codeUrl: buildUrl + "/testIngame.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "LibraStudio",
         productName: "Cookie Crush Saga-3match puzzle",
@@ -85,7 +85,7 @@
         canvas.style.width = "960px";
         canvas.style.height = "600px";
       }
-      canvas.style.background = "url('" + buildUrl + "/gameTest.jpg') center / cover";
+      canvas.style.background = "url('" + buildUrl + "/testIngame.jpg') center / cover";
       loadingBar.style.display = "block";
 
       var script = document.createElement("script");
