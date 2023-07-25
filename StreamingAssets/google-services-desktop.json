@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93680253493",
+    "project_id": "cookie-nyan-31073465",
+    "storage_bucket": "cookie-nyan-31073465.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93680253493:android:188a9be59d430e262b0f7c",
+        "android_client_info": {
+          "package_name": "com.LibraStudio.CookieNyan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93680253493-qsgs7bs6se18l42glu5h0n18n9h6e254.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.LibraStudio.CookieNyan",
+            "certificate_hash": "dbc49718e9a687412fbf50eb4c45c2ff8cef9f2a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnY2gboKDuHNOhw2zF2yhIau1jZHATrb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-1770625643808254~1289294694"
+    }
+  ],
+  "configuration_version": "1"
+}
